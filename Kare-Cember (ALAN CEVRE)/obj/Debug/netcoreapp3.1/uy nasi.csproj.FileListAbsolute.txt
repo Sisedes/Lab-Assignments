@@ -1,0 +1,14 @@
+C:\Users\kaan4\source\repos\uy nasi\bin\Debug\netcoreapp3.1\uy nasi.exe
+C:\Users\kaan4\source\repos\uy nasi\bin\Debug\netcoreapp3.1\uy nasi.deps.json
+C:\Users\kaan4\source\repos\uy nasi\bin\Debug\netcoreapp3.1\uy nasi.runtimeconfig.json
+C:\Users\kaan4\source\repos\uy nasi\bin\Debug\netcoreapp3.1\uy nasi.runtimeconfig.dev.json
+C:\Users\kaan4\source\repos\uy nasi\bin\Debug\netcoreapp3.1\uy nasi.dll
+C:\Users\kaan4\source\repos\uy nasi\bin\Debug\netcoreapp3.1\uy nasi.pdb
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.csproj.AssemblyReference.cache
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.AssemblyInfoInputs.cache
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.AssemblyInfo.cs
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.csproj.CoreCompileInputs.cache
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.dll
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.pdb
+C:\Users\kaan4\source\repos\uy nasi\obj\Debug\netcoreapp3.1\uy nasi.genruntimeconfig.cache
